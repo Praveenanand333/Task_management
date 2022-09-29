@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../../client/src/style.css">
+        <link rel="stylesheet" href="../../client/src/bootstrap.css">
+    </head>
+    <body style="background-color: aqua;">
+        <br><br>
+        <h1 style="text-align: center;color:blue">YOUR TODO LIST</h1>
+   <table border="1" style="border-collapse: collapse;margin-left: 40%;border-style:double;border-width: 3px;border-color: black;">
+<ol style="text-align: center;">
+    <% result.forEach((item)=>{%>
+       <tr> <td style="font-size: 20px;"> <%=item.tasks%></td></tr>
+    <%});%>
+
+</ol> 
+</table>
+</body>
+</html>

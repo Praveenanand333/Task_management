@@ -1,0 +1,41 @@
+body{
+    background-color:blue,
+}
+.heading{
+   font-size: 40px;
+}
+img{
+    margin-right: 60%;
+    display: inline-block;
+    
+    height: 200px;
+    width: 200px;
+}
+form{
+    margin-left: 20%;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+.tasks{
+   
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.taskdiv{
+   border: 2px solid black;
+   padding: 10px;
+   display: inline-block;
+   margin-left: 33%;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+.hidden{
+    color:white;
+    border: 0px solid white;
+}
+.addtask_div{
+    margin-left:16%;
+
+
+}
