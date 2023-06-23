@@ -1,6 +1,6 @@
 # Task Management Project
 
-This is a task management project developed using Node.js, React.js, and MongoDB. It allows users to create, update, and delete tasks, and provides a user-friendly interface for managing tasks efficiently.
+This is a task management project developed using Node.js, React.js, and Mysql. It allows users to create, update, and delete tasks, and provides a user-friendly interface for managing tasks efficiently.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Make sure you have the following software installed on your system:
 
 - Node.js (version 12 or above)
 - npm (Node Package Manager)
-- MongoDB
+- Mysql
 
 ## Installation
 
@@ -42,7 +42,7 @@ Make sure you have the following software installed on your system:
 2. Navigate to the project directory:
 
    ```bash
-   cd Task_anagement
+   cd Task_management/Task_management
    ```
 
 3. Install the dependencies:
@@ -83,6 +83,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Node.js](https://nodejs.org/)
 - [React.js](https://reactjs.org/)
-- [MongoDB](https://www.mongodb.com/)
+- [Mysql](https://www.mysql.com/)
 
 Thank you for using the Task Management Project! If you have any questions or need further assistance, please don't hesitate to contact us.
